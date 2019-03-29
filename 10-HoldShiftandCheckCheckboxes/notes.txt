@@ -1,0 +1,7 @@
+1 run for a specific branch
+  dev runs build
+  master runs build and test
+
+2 run a job every hour
+
+3 run a job custom docker container w postgres
